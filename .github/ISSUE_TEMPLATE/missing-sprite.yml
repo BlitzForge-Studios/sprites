@@ -1,6 +1,5 @@
 name: Missing Sprite
 description: Let us know if a sprite of heroes, enemies or other things are missing
-title: ""
 assignees: ["Neodevils", "StormStudiosDBR"]
 labels: ["help wanted"]
 projects: ["BlitzForge-Studios/7"]
