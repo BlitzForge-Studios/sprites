@@ -1,0 +1,40 @@
+name: Missing Sprite
+description: Let us know if a sprite of heroes, enemies or other things are missing
+title: ""
+assignees: ["Neodevils", "StormStudiosDBR"]
+labels: ["help wanted"]
+projects: ["BlitzForge-Studios/7"]
+type: Task
+
+body: 
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for reaching out. Please fill out the blank fields.
+
+- type: dropdown
+  id: download
+  attributes:
+    label: What kind of sprite is missing?
+    options:
+      - Enemy
+      - Mage
+      - Paladin
+      - Rogue
+      - Boss
+      - Assets
+      - Items
+  validations:
+    required: true
+
+- type: input
+  id: sprite
+  attributes:
+    label: Missing sprites
+    description: "What is missing, could you elaborate?"
+    placeholder: "goblin_idle folder is not existing."
+  validations:
+    required: true
