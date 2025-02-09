@@ -4,12 +4,23 @@ Please add more options if the character that you are adding has different kind 
 -->
 
 ### The sprites has been done:
+- [ ] Backpedal
+- [ ] Blast
+  - [ ] 1
+  - [ ] 2
+- [ ] Descend
+- [ ] Duck
+- [ ] Frozen
+- [ ] Hit react
 - [ ] Idle
+- [ ] Jump
+- [ ] KOed
+- [ ] Melee
+  - [ ] 1
+  - [ ] 2
+- [ ] Pounce
 - [ ] Run
-- [ ] Float
-- [ ] Attack
-  - [ ] Close
-  - [ ] Ranged
-- [ ] Skills
-- [ ] Died
-- [ ] Emote
+- [ ] Shoot
+- [ ] Sleep
+- [ ] Stunned
+- [ ] Uber
